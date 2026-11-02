@@ -103,13 +103,16 @@ A GitOps-focused DevSecOps project exploring:
 
 ⸻
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thahir2005&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thahir2005&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thahir2005&theme=tokyonight" width="95%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thahir2005&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thahir2005&theme=tokyonight" height="165"/>
+</p>
 ⸻
 
 🤝 Connect With Me
