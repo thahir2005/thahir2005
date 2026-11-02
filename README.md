@@ -55,12 +55,11 @@ Security
 * Security Scanning
 
 ⸻
-
 🚀 Featured Projects
 
 1. Production Reliability Platform
 
-View Repository
+🔗 View Repository
 
 A production-oriented DevOps project demonstrating:
 
@@ -75,7 +74,7 @@ Technologies: Python, FastAPI, Docker, Kubernetes, Terraform, GitHub Actions, Pr
 
 2. NEXUS Platform
 
-View Repository
+🔗 View Repository
 
 A platform focused on helping students move their locally developed projects to the global environment.
 
@@ -89,7 +88,7 @@ Key objectives:
 
 3. GitOps DevSecOps Platform
 
-View Repository
+🔗 View Repository
 
 A GitOps-focused DevSecOps project exploring:
 
